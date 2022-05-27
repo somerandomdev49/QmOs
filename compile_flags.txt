@@ -1,0 +1,7 @@
+-ffreestanding
+-O2
+-Wall
+-Wextra
+-Iinclude/
+-std=gnu11
+--target=i686-pc-none-elf
