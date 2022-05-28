@@ -1,5 +1,7 @@
 # QmOS
 
+Not in active development.
+
 # TODO:
 - port PortableGL here!
 - filesystem
